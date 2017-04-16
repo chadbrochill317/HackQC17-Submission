@@ -1,0 +1,26 @@
+PODS:
+  - CSVImporter (1.7.0):
+    - HandySwift (~> 2.0)
+  - HandySwift (2.2.0)
+  - ImageSlideshow (1.0.0-beta.1):
+    - ImageSlideshow/Core (= 1.0.0-beta.1)
+  - ImageSlideshow/Core (1.0.0-beta.1)
+  - Kingfisher (3.5.2)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - CSVImporter (~> 1.7)
+  - ImageSlideshow (= 1.0.0-beta.1)
+  - Kingfisher (~> 3.0)
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  CSVImporter: 1f1a90ae0148efe933839b87560b8670949dfbc5
+  HandySwift: 7bc03858d1368483f79ae6563f58619cf7ef5505
+  ImageSlideshow: adf31cd12d65c1e78c15d024b9227d56fc46208c
+  Kingfisher: 9950e382c500b6834ce004c7c4131c444e90c3a1
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: 32ebfcc349b45e8277235b9f22cd3d6ce2221b4d
+
+COCOAPODS: 1.1.1
